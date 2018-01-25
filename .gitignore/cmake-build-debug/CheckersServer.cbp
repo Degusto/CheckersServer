@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CheckersServer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/student/CLionProjects/CheckersServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/student/CLionProjects/CheckersServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/student/CLionProjects/CheckersServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CheckersServer">
+				<Option output="/home/student/CLionProjects/CheckersServer/cmake-build-debug/CheckersServer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/CLionProjects/CheckersServer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 CheckersServer"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CheckersServer/fast">
+				<Option output="/home/student/CLionProjects/CheckersServer/cmake-build-debug/CheckersServer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/CLionProjects/CheckersServer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 CheckersServer/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/student/CLionProjects/CheckersServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Enums/ActionType.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Enums/GameStatus.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Enums/PlayerType.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Models/CommunicationService.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Models/Game.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Models/Logger.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Models/Server.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Models/Utilities.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Other/JsonConversions.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Other/cpplinq.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Other/json.hpp">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Parameters/CloseRoomResult.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Parameters/CreateRoomParameter.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Parameters/JoinRoomParameter.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Parameters/LeaveRoomParameter.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Parameters/MakeMoveParameter.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Parameters/Parameter.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Parameters/StartGameParameter.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Parameters/SurrenderParameter.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Parameters/UpdateGameboardParameter.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Results/CreateRoomResult.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Results/JoinRoomResult.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/Results/Result.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/ViewModels/Move.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/ViewModels/Pawn.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/ViewModels/Player.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/ViewModels/Position.h">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/main.cpp">
+			<Option target="CheckersServer"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/CheckersServer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

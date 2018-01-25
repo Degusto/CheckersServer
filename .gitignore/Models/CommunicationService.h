@@ -1,0 +1,13 @@
+//
+// Created by student on 22.01.18.
+//
+
+#ifndef CHECKERSSERVER_COMMUNICATIONSERVICE_H
+#define CHECKERSSERVER_COMMUNICATIONSERVICE_H
+
+class CommunicationService
+{
+
+};
+
+#endif //CHECKERSSERVER_COMMUNICATIONSERVICE_H
